@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+head {
+    margin: 1px;
+    .some-class {
+        padding-left: 1rem;
+    }
+}
