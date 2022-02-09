@@ -1,0 +1,3 @@
+config/*_secret.json, *.jpg
+
+mix-manifest.json
