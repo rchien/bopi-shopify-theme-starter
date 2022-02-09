@@ -1,5 +1,5 @@
 {
-    "name": "bopi-shopify-theme-template",
+    "name": "bopi-shopify-theme-starter",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,15 +8,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rchien/bopi-shopify-theme-template.git"
+        "url": "git+https://github.com/rchien/bopi-shopify-theme-starter.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/rchien/bopi-shopify-theme-template/issues"
+        "url": "https://github.com/rchien/bopi-shopify-theme-starter/issues"
     },
-    "homepage": "https://github.com/rchien/bopi-shopify-theme-template#readme",
+    "homepage": "https://github.com/rchien/bopi-shopify-theme-starter#readme",
     "devDependencies": {
         "laravel-mix": "^6.0.41",
         "resolve-url-loader": "^5.0.0",
